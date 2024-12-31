@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1071513893690",
+    "firebase_url": "https://recipeapp-c586a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "recipeapp-c586a",
+    "storage_bucket": "recipeapp-c586a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071513893690:android:7dc63d06397a9136672e03",
+        "android_client_info": {
+          "package_name": "com.example.myrecipeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5iiZnGTCAKKZ9xCw2TGFT_d4JVw8G4cw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
